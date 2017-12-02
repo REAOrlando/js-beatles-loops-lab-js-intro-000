@@ -3,5 +3,5 @@ function theBeatlesPlay(musicians, instruments) {
   for (i = 0; i < musicians.length; i ++) {
     empty.push(`${musicians} plays ${instruments}`)
   }
-  return empty 
+  return empty
 }
